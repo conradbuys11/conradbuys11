@@ -11,7 +11,7 @@
 
 ## Contact info:
 <ul>
-  <li>Email: conradbuys11@gmail.com</li>
+  <li>Email: <a href="mailto:conradbuys11@gmail.com">conradbuys11@gmail.com</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/conradbuys/">https://www.linkedin.com/in/conradbuys/</a></li>
   <li>Discord: Conic#5198</li>
 </ul>
