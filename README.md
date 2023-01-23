@@ -1,6 +1,6 @@
 <h1>Conrad Buys, Software Developer</h1>
 
-<p>Hello! I'm Conrad, a junior developer with a passion for website & game design. I intertwine my passions in a way that gives me a unique perspective on both, as well as a broader understanding of more languages & frameworks. My favorite languages are Javascript & C#, and my favorite frameworks include React, Express.js, & Ruby on Rails.</p>
+<p>Hello! I'm Conrad, a developer with a passion for website & game design. I intertwine my passions in a way that gives me a unique perspective on both, as well as a broader understanding of more languages & frameworks. My favorite languages are Javascript & C#, and my favorite frameworks include React, Express.js, & Ruby on Rails.</p>
 
 ## What I've been working on recently:
 <ul>
